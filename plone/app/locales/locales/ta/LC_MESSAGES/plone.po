@@ -18,15 +18,15 @@ msgstr ""
 
 #: plone.locking/plone/locking/browser/locking.py:148
 msgid "$d day and $h hours"
-msgstr ""
+msgstr "$d நாள $h மணி நேரம்"
 
 #: plone.locking/plone/locking/browser/locking.py:150
 msgid "$d days and $h hours"
-msgstr ""
+msgstr "$d நாட்கள் $h மணி நேரம"
 
 #: plone.locking/plone/locking/browser/locking.py:143
 msgid "$h hour and $m minutes"
-msgstr ""
+msgstr "$d h மணி ந $m நிமிடம்"
 
 #: plone.locking/plone/locking/browser/locking.py:145
 msgid "$h hours and $m minutes"
